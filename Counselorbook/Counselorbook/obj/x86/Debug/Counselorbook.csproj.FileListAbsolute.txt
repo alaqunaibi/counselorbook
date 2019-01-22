@@ -1,0 +1,7 @@
+E:\forschool\Counselorbook\Counselorbook\bin\Debug\Counselorbook.exe
+E:\forschool\Counselorbook\Counselorbook\bin\Debug\Counselorbook.pdb
+E:\forschool\Counselorbook\Counselorbook\obj\x86\Debug\Counselorbook.frmCounselorbook.resources
+E:\forschool\Counselorbook\Counselorbook\obj\x86\Debug\Counselorbook.Properties.Resources.resources
+E:\forschool\Counselorbook\Counselorbook\obj\x86\Debug\Counselorbook.csproj.GenerateResource.Cache
+E:\forschool\Counselorbook\Counselorbook\obj\x86\Debug\Counselorbook.exe
+E:\forschool\Counselorbook\Counselorbook\obj\x86\Debug\Counselorbook.pdb
